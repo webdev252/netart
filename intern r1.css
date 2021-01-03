@@ -1,0 +1,44 @@
+*{
+    margin : 0%;
+    padding: 1%;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to bottom,#fdfdfd ,#f3f09eec ); 
+
+}
+
+.logo {
+    width: 30%;
+    margin: 2px auto;
+    display: block;
+}
+h3{
+   text-align: center; 
+}
+hr{
+    border: none;
+    height: 1px;
+
+
+}
+.first{
+    float: left;
+    width: 30%;
+}
+
+.sec{
+    width: 65%;
+    float: right;
+}
+.three{
+    width: 75%;
+    margin: 2px auto;
+    display: block;
+}
+ul{ 
+    
+}
+p{
+    text-align: center;
+}
